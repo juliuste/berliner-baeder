@@ -4,8 +4,8 @@ Berlin public swimming pools operated by [Berliner Bäder-Betriebe](https://www.
 
 [![npm version](https://img.shields.io/npm/v/berliner-baeder.svg)](https://www.npmjs.com/package/berliner-baeder)
 [![Build Status](https://travis-ci.org/juliuste/berliner-baeder.svg?branch=master)](https://travis-ci.org/juliuste/berliner-baeder)
-[![Greenkeeper badge](https://badges.greenkeeper.io/juliuste/bberliner-baeder.svg)](https://greenkeeper.io/)
-[![dependency status](https://img.shields.io/david/juliuste/bberliner-baeder.svg)](https://david-dm.org/juliuste/bberliner-baeder)
+[![Greenkeeper badge](https://badges.greenkeeper.io/juliuste/berliner-baeder.svg)](https://greenkeeper.io/)
+[![dependency status](https://img.shields.io/david/juliuste/berliner-baeder.svg)](https://david-dm.org/juliuste/berliner-baeder)
 [![dev dependency status](https://img.shields.io/david/dev/juliuste/berliner-baeder.svg)](https://david-dm.org/juliuste/berliner-baeder#info=devDependencies)
 [![license](https://img.shields.io/github/license/juliuste/berliner-baeder.svg?style=flat)](LICENSE)
 [![chat on gitter](https://badges.gitter.im/juliuste.svg)](https://gitter.im/juliuste)
