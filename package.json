@@ -1,0 +1,39 @@
+{
+	"name": "berliner-baeder",
+	"description": "Berlin public swimming pools operated by Berliner Bäder-Betriebe.",
+	"version": "0.0.0",
+	"keywords": [
+		"berlin",
+		"germany",
+		"swimming",
+		"pool",
+		"schwimmen",
+		"schwimmbad",
+		"bbb",
+		"bäder"
+	],
+	"author": "Julius Tens <mail@juliustens.de>",
+	"homepage": "https://github.com/juliuste/berliner-baeder",
+	"repository": "juliuste/berliner-baeder",
+	"bugs": "https://github.com/juliuste/berliner-baeder/issues",
+	"main": "./index.js",
+	"files": [
+		"index.js"
+	],
+	"dependencies": {
+		"fetch-ponyfill": "^4.1.0",
+		"lodash.omit": "^4.5.0",
+		"pinkie-promise": "^2.0.1"
+	},
+	"devDependencies": {
+		"tape": "^4.7.0"
+	},
+	"scripts": {
+		"test": "node test.js",
+		"prepublish": "npm test"
+	},
+	"engines": {
+		"node": ">=6"
+	},
+	"license": "MIT"
+}
