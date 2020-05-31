@@ -21,7 +21,7 @@
 		"index.js"
 	],
 	"dependencies": {
-		"fetch-ponyfill": "^5.0.0",
+		"fetch-ponyfill": "^6.1.1",
 		"lodash.omit": "^4.5.0",
 		"pinkie-promise": "^2.0.1"
 	},
