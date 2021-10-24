@@ -1,3 +1,5 @@
+# :warning: UNMAINTAINED
+
 # berliner-baeder
 
 Berlin public swimming pools operated by [Berliner Bäder-Betriebe](https://www.berlinerbaeder.de/).
